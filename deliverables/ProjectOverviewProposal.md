@@ -6,12 +6,18 @@
 
 ## N things of complexity (componets)
 - UI Design
-  - testing
+  - 
 - UI State Management
-- (Bridge)
-- Authentication
+  -
+- Backend
+  -
+- Deployment
+  -
 - Data Storage
-
+  -
+- Testing
+  -
+  
 ## How do the components fit together (i.e., predicted architecture)?
 Prompt: "We think, based on not touching it yet, we'll do..." - 
 
