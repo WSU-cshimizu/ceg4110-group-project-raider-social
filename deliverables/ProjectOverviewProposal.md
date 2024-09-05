@@ -5,9 +5,11 @@
 - Raider Social will be a way for wright state students to connect and communinicate with each other. Raider connect will be exclusive to just wright state students.
 
 ## N things of complexity (componets)
-- UI
+- UI Design
+- UI State Management
 - (Bridge)
-- Data Base
+- Authentication
+- Data Storage
 
 ## How do the components fit together (i.e., predicted architecture)?
 Prompt: "We think, based on not touching it yet, we'll do..." - 
