@@ -1,4 +1,4 @@
-# Name of Project- Raider Social
+# Name of Project - Raider Social
 
 
 ## Elevator Pitch
