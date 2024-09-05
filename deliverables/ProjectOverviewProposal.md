@@ -32,6 +32,14 @@
 
 ## How do the components fit together (i.e., predicted architecture)?
 
+  The system is going to be a Client - Server Architecture. 
+
+  The Mobile application (Client) availabe in both iOS and Android devices are going to be the User Interface for the end users, where they get to login and communicate with other Wright State unversity students. Whenever the end user wants access or manipulate some data regarding the current user, other users on the portal or any other system data, the Mobile Application is then going to communicate with the Backend (Server).
+
+  The Backend (Server) of the system is going to accept HTTP requests from the Client (Mobile Application) and send back a response to the client accordingly. It will be the backends job to authenticate the user and also to perform any Business Logic that is required. When the backend receives any request it is going to get the data stored in the Database, perform any Business Logic (if necessary) and then send the response back to the client.
+
+  The Database is goint to store all the data of the system. The details of the users, other system information, authentication information is going to be stored in the Database in rows much like that of an excel sheet. The Server will query the Database to get back any data that is required.
+
+  Lastly, the Server will be deployed on GoDaddy so that any user that has access to the internet can access our system.
 
 ## What is the predicted life cycle/methodology that you will follow
--
