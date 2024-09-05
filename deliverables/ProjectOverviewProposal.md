@@ -6,6 +6,7 @@
 
 ## N things of complexity (componets)
 - UI Design
+  - testing
 - UI State Management
 - (Bridge)
 - Authentication
