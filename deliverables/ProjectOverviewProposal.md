@@ -5,16 +5,21 @@
 - Raider Social will be a way for Wright State students to connect and communinicate with each other. Raider Social will be exclusive to just Wright State students.
 
 ## N things of complexity (componets)
+
 - UI Design
-  - Creating a appealing and user friendly interface
+  - Creating a Interface that is both appealing to look at and easy to use for the end user. We will be creating cross platform (works on both Android and iOS) Mobile Application for the Frontend portion of our system.
+
 - Backend
-  - Writing the business logic and communicating with the database
+  - We will create a Server for our Frontend to communicate with. The Server will query the Database to fetch all the data that is required for our users to interact with the system.
+
 - Data Storage
-  - Persistent storage for user and app data
+  - We will setup a Database using PostgreSQL to persistantly store all of the data that our system utilizes, including the user data and other system data as well.
+
 - Deployment
-  - Deploying to GoDaddy
+  - The server will be hosted on the Internet so that any user with the access to the Internet can have access to our system. We will be using a hosting service such as GoDaddy to host our server.
+
 - Testing
-  - Testing the whole system to ensure functionality 
+  - The whole system is going to be throughly tested for its functionality, implementation and to reduce the amount of Bugs so that our Raiders can have a smooth and bug free experience whist using our application.
   
 ## What language or technology stack or framework will be used (Why as well)?
 
@@ -27,7 +32,7 @@
 - PostgreSQL
   We are opting to use PostgreSQL as our datebase of choise. PostgreSQL is also a widely used RDBMS and will give us the oppertunity to work with and learn SQL language whilst we create the database of of our system.
 
-- GoDaddy
+- GoDaddy (Actually not sure if GoDaddy allows server hosting need to look into it)
   We will use GoDaddy to host our Server. GoDaddy is free to use and is relatively less complex compared to other alternatives such as AWS. Hosting in GoDaddt is realatively and easier process and since none of our team memners are well versed in deployment of Servers we are using GoDaddy as a safe bet for now.
 
 ## How do the components fit together (i.e., predicted architecture)?
@@ -43,3 +48,5 @@
   Lastly, the Server will be deployed on GoDaddy so that any user that has access to the internet can access our system.
 
 ## What is the predicted life cycle/methodology that you will follow
+
+  We will be working acording to Agile Methodology. (Need to discuss more)
