@@ -1,7 +1,7 @@
-Name of Project-
+Name of Project- Raider Social
 
 
-Elevator Pitch-
+Elevator Pitch- Raider Social will be a way for wright state students to connect and communinicate with eachother. Raider connect will be exclusive to just wright state students.
 
 N things of complexity (componets)-
 
