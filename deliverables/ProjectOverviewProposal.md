@@ -2,7 +2,7 @@
 
 
 ## Elevator Pitch
-- Raider Social will be a way for wright state students to connect and communinicate with each other. Raider connect will be exclusive to just wright state students.
+- Raider Social will be a way for wright state students to connect and communinicate with each other. Raider Social will be exclusive to just wright state students.
 
 ## N things of complexity (componets)
 - UI Design
