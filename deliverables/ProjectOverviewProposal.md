@@ -6,23 +6,24 @@
 
 ## N things of complexity (componets)
 - UI Design
-  - 
-- UI State Management
-  -
+  - Creating a appealing and user friendly interface
 - Backend
-  -
-- Deployment
-  -
+  - Writing the business logic and communicating with the database
 - Data Storage
-  -
+  - Persistent storage for user and app data
+- Deployment
+  - Deploying to GoDaddy
 - Testing
-  -
+  - Testing the whole system to ensure functionality 
   
 ## How do the components fit together (i.e., predicted architecture)?
 Prompt: "We think, based on not touching it yet, we'll do..." - 
 
 ## What language or technology stack or framework will be used (Why as well)?
+- Flutter (Dart)
+  - Crossplatform and realitivy developer friendly
 -
+
 
 ## What is the predicted life cycle/methodology that you will follow
 -
