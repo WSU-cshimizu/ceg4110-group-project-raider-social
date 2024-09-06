@@ -27,7 +27,7 @@
   We will be using Flutter as a framework and Dart programming language to create Mobile Application for the UI portion of the system. We have chosen Flutter because it is cross platform framework and will allow us to create both iOS and Android application at the same time. Since the time constraints and developers of this project is limited, we have have chosen Flutter to better use our time and team members more efficiently.
 
 - Express :
-  We will be using Express framework and Javascript programming language to create the Server of our system. We have selected Express framework to create the server of our system because the developer community of Express is extremely huge and it the most widely used framework for backend development in this day and age. Due to its mass adoption we are hopeful that any hindrances that we might face during the development process will be quickly and easily resolved.
+We will be using Express framework and Javascript programming language to create the Server of our system. We have selected Express framework to create the server of our system because the developer community of Express is extremely huge and it the most widely used framework for backend development in this day and age. Due to its mass adoption we are hopeful that any hindrances that we might face during the development process will be quickly and easily resolved.
 
 - PostgreSQL :
   We are opting to use PostgreSQL as our database of choice. PostgreSQL is also a widely used RDBMS and will give us the opportunity to work with and learn SQL language whilst we create the database of of our system.
