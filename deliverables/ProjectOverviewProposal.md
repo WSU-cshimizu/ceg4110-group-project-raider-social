@@ -56,4 +56,4 @@
 
 ## Signatures
 
-  Dipesh Paneru
+  Dipesh Paneru, Hayden Troxell
