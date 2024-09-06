@@ -56,4 +56,4 @@
 
 ## Signatures
 
-  Dipesh Paneru, Hayden Troxell
+  Dipesh Paneru, Hayden Troxell, Tyler Wells
