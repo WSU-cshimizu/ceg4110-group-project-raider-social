@@ -56,4 +56,4 @@ We will be using Express framework and Javascript programming language to create
 
 ## Signatures
 
-  Dipesh Paneru, Hayden Troxell, Tyler Wells
+  Dipesh Paneru, Hayden Troxell, Tyler Wells, Adam LaDue
