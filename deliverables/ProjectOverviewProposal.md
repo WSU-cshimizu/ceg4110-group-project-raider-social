@@ -32,7 +32,7 @@
 - PostgreSQL
   We are opting to use PostgreSQL as our datebase of choise. PostgreSQL is also a widely used RDBMS and will give us the oppertunity to work with and learn SQL language whilst we create the database of of our system.
 
-- GoDaddy (Actually not sure if GoDaddy allows server hosting need to look into it)
+- GoDaddy
   We will use GoDaddy to host our Server. GoDaddy is free to use and is relatively less complex compared to other alternatives such as AWS. Hosting in GoDaddt is realatively and easier process and since none of our team memners are well versed in deployment of Servers we are using GoDaddy as a safe bet for now.
 
 ## How do the components fit together (i.e., predicted architecture)?
@@ -49,4 +49,11 @@
 
 ## What is the predicted life cycle/methodology that you will follow
 
-  We will be working acording to Agile Methodology. (Need to discuss more)
+  We will be working according to Agile Methodology because it will allow us to break up the project in multiple phases and ensure that we will be able to deliver at least the Minimal Viable Product in the given constrained time frame.
+
+  Scrum:
+  We will specifically be following Scrum framework in this project. We are planning on making the Sprints two weeks long.
+
+## Signatures
+
+  Dipesh Paneru
