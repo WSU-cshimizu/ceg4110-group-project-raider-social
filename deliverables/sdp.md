@@ -14,7 +14,7 @@
 * Communication mechanism(s) for outside of meetings
   - Discord
 
-We anticipate on using Discord as our main line of communication and we plan on meeting there at least 2 times a week or more if needed. 
+We anticipate on using Discord as our main line of communication and we plan on meeting there at least 2 times a week or more if needed along with meeting in class
 
 ## Timeline
 ![gantt](../assets/gantt-chart.png)
