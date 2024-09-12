@@ -24,4 +24,4 @@ We anticipate on using Discord as our main line of communication and we plan on 
   * Design Specification
 
 ## Signatures
-Haydewn Troxell
+Hayden Troxell
