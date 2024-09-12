@@ -14,7 +14,7 @@
 * Communication mechanism(s) for outside of meetings
   - Discord
 
-We anticipate communicating via _x_ outside of meetings. We have commited to responding within _y_ timeframe. ETC.
+We anticipate on using Discord as our main line of communication and we plan on meeting there at least 2 times a week or more if needed. 
 
 ## Timeline
 ![gantt](../assets/gantt-chart.png)
