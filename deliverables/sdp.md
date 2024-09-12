@@ -1,9 +1,15 @@
 # Software Development Plan
 
 ### Communication Plan
-* Meeting Location(s)
-* Meeting Time(s)
+* Meeting Location(s):
+  - Discord, Classroom
+* Meeting Time(s):
+  - Tues/Thurs: 11:00 AM - 12:30 PM
+  - Wednesday: 4:00 PM via Discord
+  - Weekend as needed
 * Meeting Cadence
+  - Twice a week
+  - Lasts about an hour or longer usually
 
 * Communication mechanism(s) for outside of meetings
 
