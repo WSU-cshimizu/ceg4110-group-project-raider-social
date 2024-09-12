@@ -22,3 +22,6 @@ We anticipate on using Discord as our main line of communication and we plan on 
   * Milestones (i.e., "Checkins")
   * Requirement Specification
   * Design Specification
+
+## Signatures
+Haydewn Troxell
