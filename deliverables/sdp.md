@@ -12,6 +12,7 @@
   - Lasts about an hour or longer usually
 
 * Communication mechanism(s) for outside of meetings
+  - Discord
 
 We anticipate communicating via _x_ outside of meetings. We have commited to responding within _y_ timeframe. ETC.
 
