@@ -22,10 +22,13 @@ We anticipate on using Discord as our main line of communication and we plan on 
   * Requirement Specification : 
     - We will be working on the Requirement Specification document from 17 Sept to 20 Sept. The document will be ready for submission on the 20th of Sept 
 
+  * Design Specification : 
+    -  We will be working on the Design Specification document right after we complete Requirement Specification from 21 Sept to 27 Sept. The document will be ready for submission on the 27th of Sept 
+
   * MVSs
   * Milestones (i.e., "Checkins")
   
-  * Design Specification
+  
 
 ## Signatures
 Hayden Troxell
