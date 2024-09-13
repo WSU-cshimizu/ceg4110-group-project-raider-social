@@ -25,8 +25,13 @@ We anticipate on using Discord as our main line of communication and we plan on 
   * Design Specification : 
     -  We will be working on the Design Specification document right after we complete Requirement Specification from 21 Sept to 27 Sept. The document will be ready for submission on the 27th of Sept 
 
+  * Milestones : 
+    - First Milestone - We will submit the for system for its First evaluation on the 20th of october 
+    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November
+    - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November 
+
   * MVSs
-  * Milestones (i.e., "Checkins")
+  
   
   
 
