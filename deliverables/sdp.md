@@ -17,7 +17,11 @@
 We anticipate on using Discord as our main line of communication and we plan on meeting there at least 2 times a week or more if needed.
 
 ## Timeline
+
+
 ![gantt](../assets/gantt-chart.png)
+
+
 
   * Requirement Specification : 
     - We will be working on the Requirement Specification document from 17 Sept to 20 Sept. The document will be ready for submission on the 20th of Sept 
