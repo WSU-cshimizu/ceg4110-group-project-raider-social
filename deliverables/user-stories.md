@@ -18,6 +18,13 @@ As a Player, I want to be able to see a High-score board to keep track of my pre
 ### Test
 As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
 
+## Hayden Troxell
+### Developer
+As a developer, I want to develop the backend logic that will insure smooth collision detection, which will allow the player to enjoy the game and its enviorment without having any player model clipping issuses.
+
+### User
+As a player, I want to be able to use the basic game controls to traverse the world and try to beat my High-score while also not running into any bugs that will decrease my in-game immersion.
+
 ## Details
 This document will compile a collection of user stories that have the perspective of the end-user, as well as the perspective of fellow developers. These user stories should conform to the format specified in the `./learning` directory.
 
