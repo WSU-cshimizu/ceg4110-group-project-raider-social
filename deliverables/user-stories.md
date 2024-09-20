@@ -48,4 +48,4 @@ This document will compile a collection of user stories that have the perspectiv
 
 ## Signatures
 
-Dipesh Paneru, Hayden Troxell, Tyler Wells
+Dipesh Paneru, Hayden Troxell, Tyler Wells, Immanuel Sabwami
