@@ -7,6 +7,17 @@ As a developer, I want to implement various custom-made 3d assets for the game t
 ### User
 As a player, I want to be able to use momentum mechanics to improve the “realism” of character movement, which could make some obstacles easier to traverse the faster I move through them, adding an extra layer of skill required to quickly traverse the course. 
 
+## Dipesh Paneru (Graduate Student)
+
+### Developer
+As a Developer, I want to implement various movement mechanism such as moving forward and jumping, which will allow the player of the game to actually traverse the 3d space available in the game.
+
+### User
+As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
+
+### Test
+As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
+
 ## Details
 This document will compile a collection of user stories that have the perspective of the end-user, as well as the perspective of fellow developers. These user stories should conform to the format specified in the `./learning` directory.
 
