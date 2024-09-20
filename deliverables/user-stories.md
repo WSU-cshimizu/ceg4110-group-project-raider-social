@@ -32,20 +32,6 @@ As a developer I want to develop the in-game toggle events(i.e score, start menu
 ### User
 As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
 
-
-## Details
-This document will compile a collection of user stories that have the perspective of the end-user, as well as the perspective of fellow developers. These user stories should conform to the format specified in the `./learning` directory.
-
-## Rubric
-| points | metric                             |
-| ------ | -----------------------------------|
-| 2      | _n_ user perspective stories       |
-| 2      | _n_ developer perspective stories  |
-| 5      | Are the stories conformant?        |
-| 1      | Does it look nice?                 |
-| **10** | **total**                          |
-
-
 ## Signatures
 
 Dipesh Paneru, Hayden Troxell, Tyler Wells, Immanuel Sabwami
