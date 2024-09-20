@@ -29,3 +29,8 @@ This document will compile a collection of user stories that have the perspectiv
 | 5      | Are the stories conformant?        |
 | 1      | Does it look nice?                 |
 | **10** | **total**                          |
+
+
+## Signatures
+
+Dipesh Paneru
