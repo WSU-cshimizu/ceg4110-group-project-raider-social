@@ -25,6 +25,14 @@ As a developer, I want to develop the backend logic that will insure smooth coll
 ### User
 As a player, I want to be able to use the basic game controls to traverse the world and try to beat my High-score while also not running into any bugs that will decrease my in-game immersion.
 
+## Tyler Wells
+### Developer
+As a developer I want to develop the in-game toggle events(i.e score, start menu) to help ensure a straight and fun direction for a player to achieve goals and rewards so that they are obligated to be more 'engaged'. 
+
+### User
+As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
+
+
 ## Details
 This document will compile a collection of user stories that have the perspective of the end-user, as well as the perspective of fellow developers. These user stories should conform to the format specified in the `./learning` directory.
 
@@ -40,4 +48,4 @@ This document will compile a collection of user stories that have the perspectiv
 
 ## Signatures
 
-Dipesh Paneru, Hayden Troxell
+Dipesh Paneru, Hayden Troxell, Tyler Wells
