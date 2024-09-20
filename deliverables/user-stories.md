@@ -32,6 +32,13 @@ As a developer I want to develop the in-game toggle events(i.e score, start menu
 ### User
 As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
 
+## Adam LaDue
+### Developer
+As a developer, I want to implement a database system that stores player scores and personal records, so that players can track their progress and compare their best performances across different runs with themselves and other players.
+
+### User
+As a player, I want the game to accurately track and save my scores and personal records, so that when I finally beat a record I’ve been striving for, it’s securely stored and my progress is never lost. This will keep me motivated to continue playing and improving without the frustration of losing my achievements.
+
 ## Signatures
 
-Dipesh Paneru, Hayden Troxell, Tyler Wells, Immanuel Sabwami
+Dipesh Paneru, Hayden Troxell, Tyler Wells, Immanuel Sabwami, Adam LaDue
