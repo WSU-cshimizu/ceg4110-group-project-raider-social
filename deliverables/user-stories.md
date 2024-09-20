@@ -40,4 +40,4 @@ This document will compile a collection of user stories that have the perspectiv
 
 ## Signatures
 
-Dipesh Paneru
+Dipesh Paneru, Hayden Troxell
