@@ -8,3 +8,6 @@
 
 ## Tyler Wells
 #### Computer Science | Senior | Undergraduate | Non-international Student
+
+## Immanuel Sabwami
+#### Computer Engineering | Junior | Undergraduate | Non-international Student
