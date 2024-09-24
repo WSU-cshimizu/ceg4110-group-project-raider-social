@@ -11,3 +11,6 @@
 
 ## Immanuel Sabwami
 #### Computer Engineering | Junior | Undergraduate | Non-international Student
+
+## Dipesh Paneru
+#### Computer Science | Graduate | International Student
