@@ -7,10 +7,10 @@
 ## N things of complexity (components)
 
 - UI Design
-  - Creating a Interface that is both appealing to look at and easy to use for the end user. We will be creating cross platform (works on both Android and iOS) Mobile Application for the Frontend portion of our system.
+  - Creating a Interface that is both appealing to look at and easy to use for the end user. We will be using Unity to develop a parkour map with various styles of platforms and map designs. 
 
 - Backend
-  - We will create a Server for our Frontend to communicate with. The Server will query the Database to fetch all the data that is required for our users to interact with the system.
+  - We will create a Server for our Frontend to communicate with. The Server will query the Database to fetch all the data that is required for our users to interact with the system.  
 
 - Data Storage
   - We will setup a Database using PostgreSQL to persistently store all of the data that our system utilizes, including the user data and other system data as well.
