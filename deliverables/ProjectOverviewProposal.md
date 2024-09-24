@@ -1,8 +1,8 @@
-# Name of Project - Raider Social
+# Name of Project - Raider Parkour
 
 
 ## Elevator Pitch
-- Raider Social will be a way for Wright State students to connect and communicate with each other. Raider Social will be exclusive to just Wright State students.
+- Raider Parkour will be a 3D parkour game that involves a user controlling a character jumping across challenging platforms to reach the ultimate finish line. 
 
 ## N things of complexity (components)
 
