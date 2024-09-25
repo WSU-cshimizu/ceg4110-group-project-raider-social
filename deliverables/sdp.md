@@ -2,7 +2,8 @@
 
 ### Communication Plan
 * Meeting Location(s):
-  - Discord, Classroom
+  - Discord
+  - Classroom
 * Meeting Time(s):
   - Tues/Thurs: 11:00 AM - 12:30 PM
   - Wednesday: 4:00 PM via Discord
