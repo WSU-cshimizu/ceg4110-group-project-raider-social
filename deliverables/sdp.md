@@ -2,14 +2,14 @@
 
 ### Communication Plan
 * Meeting Location(s):
-  - Discord - 
-  - Classroom - 
+  - Discord - Most convenient platform for us to use to meet virtually
+  - Classroom - Given time to meet at the end of lectures
 * Meeting Time(s):
-  - Tues/Thurs: 11:00 AM - 12:30 PM
-  - Wednesday: 4:00 PM via Discord
-  - Weekend as needed
+  - Tues/Thurs: 11:50 AM - 12:30 PM - Time we can meet in-person
+  - Wednesday: 4:00 PM via Discord - Time all group members are free
+  - Weekend as needed - If emergency/unforeseen circumstances occur 
 * Meeting Cadence
-  - Twice a week
+  - Twice a week - We feel it is enough time to catch up with everyones progession and address any future hurdles..
   - Lasts about an hour or longer usually
 
 * Communication mechanism(s) for outside of meetings
