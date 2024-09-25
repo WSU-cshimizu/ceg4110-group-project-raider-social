@@ -9,8 +9,8 @@
   - Wednesday: 4:00 PM via Discord - Time all group members are free
   - Weekend as needed - If emergency/unforeseen circumstances occur 
 * Meeting Cadence
-  - Twice a week - We feel it is enough time to catch up with everyones progession and address any future hurdles..
-  - Lasts about an hour or longer usually
+  - Twice a week - We feel it is enough time to catch up with everyones progression and address any future obstacles
+  - Lasts about an hour or longer usually 
 
 * Communication mechanism(s) for outside of meetings
   - Discord
