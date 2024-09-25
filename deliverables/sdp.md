@@ -35,7 +35,7 @@ We anticipate on using Discord as our main line of communication and we plan on 
 
     - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November, because we will require about 3 weeks to add additional functionality for our second milestone.
 
-    - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November. because we will require about 2 weeks add additional functionality for our last milestone.
+    - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November, because we will require about 2 weeks add additional functionality for our last milestone.
 
   * MVSs :
     - MVS - We will submit the MVS on the 20th of october. We have chosen this date because we will be making the MVS after we are done with both the Requirement Specification and Design Specification
