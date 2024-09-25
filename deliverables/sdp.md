@@ -31,8 +31,9 @@ We anticipate on using Discord as our main line of communication and we plan on 
     -  We will be working on the Design Specification document right after we complete Requirement Specification from 8 Oct to 11 Oct. The document will be ready for submission on the 11th of Oct. We have chosen this date because we are planning to make the Design Specification right after we are done with Requirement Specification
 
   * Milestones : 
-    - First Milestone - We will submit the for system for its First evaluation on the 20th of october 
-    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November
+    - First Milestone - We will submit the system for its First evaluation on the 25th of october, because we will need about 14 days to build a Minimal Viable Product using the Requirement Specification and Design Specification made before.
+
+    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November 
     - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November 
 
   * MVSs :
