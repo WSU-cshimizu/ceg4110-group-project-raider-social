@@ -25,10 +25,10 @@ We anticipate on using Discord as our main line of communication and we plan on 
 
 
   * Requirement Specification : 
-    - We will be working on the Requirement Specification document from 1 Oct to 4 Oct. The document will be ready for submission on the 4th of Sept 
+    - We will be working on the Requirement Specification document from 1 Oct to 4 Oct. The document will be ready for submission on the 4th of Oct 
 
   * Design Specification : 
-    -  We will be working on the Design Specification document right after we complete Requirement Specification from 8 Oct to 11 Oct. The document will be ready for submission on the 11th of Sept 
+    -  We will be working on the Design Specification document right after we complete Requirement Specification from 8 Oct to 11 Oct. The document will be ready for submission on the 11th of Oct
 
   * Milestones : 
     - First Milestone - We will submit the for system for its First evaluation on the 20th of october 
