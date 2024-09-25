@@ -22,7 +22,7 @@ We anticipate on using Discord as our main line of communication and we plan on 
 
 ![gantt](../assets/Gantt-Chart.png)
 
-
+  
 
   * Requirement Specification : 
     - We will be working on the Requirement Specification document from 1 Oct to 4 Oct. The document will be ready for submission on the 4th of Oct 
