@@ -36,7 +36,7 @@ We anticipate on using Discord as our main line of communication and we plan on 
     - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November 
 
   * MVSs :
-    - MVS - We will submit the First MVS on the 20th of october 
+    - MVS - We will submit the MVS on the 20th of october 
   
   
   
