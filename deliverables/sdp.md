@@ -20,7 +20,7 @@ We anticipate on using Discord as our main line of communication and we plan on 
 ## Timeline
 
 
-![gantt](../assets/Gantt-Chart.png)
+![gantt](../assets/GanttChart.png)
 
   
 
