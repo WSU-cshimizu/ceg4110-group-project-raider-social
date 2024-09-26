@@ -8,7 +8,7 @@
 * Question 2
 
 ## Lessons Learned
-Text paragraph.
+Dayton Frieght organizes work with backlog which contains a priority order of large projects, small items, and prioritizing bugs/tickets based on how it impacts work. Organizes work with heavy communication with its stakeholders and developer teams.
 
 Text paragraph.
 
