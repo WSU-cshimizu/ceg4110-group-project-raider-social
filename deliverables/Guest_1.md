@@ -19,5 +19,9 @@ Scrum Vs Kanban in the agile space:
 
 DFL’s user story rule is that they should be made in a way that developers can finish them and push them to production right away. They can typically be stand-alone or part of a larger project.
 
+## Difference Between Lecture and Speaker
+In class we did our user story on the whole project but at Dayton Frieght they break the user stories into smaller individual parts.
+
+
 ## Signatures
 Hayden Troxell, Tyler Wells, Adam LaDue, Immanuel Sabwami
