@@ -1,5 +1,5 @@
 # Guest Lecture Response
-* **Guest Lecturer:** Niclas Rue and Tim Skrinak
+* **Guest Lecturer:** Niclas Rue (nrue@daytonfreight.com) and Tim Skrinak (tskrinak@daytonfreight.com)
 * **Company:** Dayton Freight
 * **Date:** 9-26-24
 
