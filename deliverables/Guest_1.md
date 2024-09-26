@@ -17,4 +17,4 @@ Communication is more than just discussions between team members. It is importan
 Text paragraph.
 
 ## Signatures
-Hayden Troxell, Tyler Wells
+Hayden Troxell, Tyler Wells, Adam LaDue
