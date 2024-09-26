@@ -1,5 +1,5 @@
 # Guest Lecture Response
-* **Guest Lecturer:** Nick and 'BLANK'
+* **Guest Lecturer:** Niclas Rue and 'BLANK'
 * **Company:** Dayton Freight
 * **Date:** 9-26-24
 
