@@ -4,7 +4,8 @@
 * **Date:** 9-26-24
 
 ## Pertinent Questions
-* Question 1
+* Is communication on all type of platforms or one specifically?
+  - Microsoft Teams very extensively. A lot of work is remote for meetings.
 * Question 2
 
 ## Lessons Learned
