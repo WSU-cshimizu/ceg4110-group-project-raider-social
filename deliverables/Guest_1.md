@@ -14,7 +14,8 @@ Dayton Frieght organizes work with backlog which contains a priority order of la
 
 Communication is more than just discussions between team members. It is important for everyone to be present either via in person or over their camera. Visually seeing everyones faces can help get a better understanding if team members are confused or interested in the topic at hand. If a team can get everyone on the same page and interested with the project or issue at hand, it can boost productivity and morale.
 
-Text paragraph.
+Scrum Vs Kanban in the agile space
+ Scrum is a 2 week "sprint" cycle and a very tough service industry, kanban is a system that keeps work moving along and limits the amount of items open and not forgotten.
 
 ## Signatures
 Hayden Troxell, Tyler Wells, Adam LaDue
