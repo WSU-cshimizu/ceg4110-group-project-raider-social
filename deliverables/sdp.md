@@ -25,15 +25,15 @@ We anticipate on using Discord as our main line of communication and we plan on 
   
 
   * Requirement Specification : 
-    - We will be working on the Requirement Specification document from 1 Oct to 4 Oct. The document will be ready for submission on the 4th of Oct. We have chosen this date because Requirement Specification Document is the initial document we need to create but we will be occupied from the 23rd Sept to 27th Sept updating our Project Overview Proposal and Software Development Plan. 
+    - We will be working on the Requirement Specification document from 26th Sept to 11th Oct. The document will be ready for submission on the 11th of Oct. We have chosen this date because Requirement Specification Document is the initial document we need to create but we will be occupied from the 23rd Sept to 25th Sept updating our Project Overview Proposal and Software Development Plan. 
 
   * Design Specification : 
-    -  We will be working on the Design Specification document right after we complete Requirement Specification from 8 Oct to 11 Oct. The document will be ready for submission on the 11th of Oct. We have chosen this date because we are planning to make the Design Specification right after we are done with Requirement Specification
+    -  We will be working on the Design Specification document right after we complete Requirement Specification from 12 Oct to 18 Oct. The document will be ready for submission on the 18th of Oct. We have chosen this date because we are planning to make the Design Specification right after we are done with Requirement Specification
 
   * Milestones : 
-    - First Milestone - We will submit the system for its First evaluation on the 25th of october, because we will need about 14 days to build a Minimal Viable Product using the Requirement Specification and Design Specification made before.
+    - First Milestone - We will submit the system for its First evaluation on the 1st of Nov, because we will need about 14 days to build a Minimal Viable Product using the Requirement Specification and Design Specification made before.
 
-    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November, because we will require about 3 weeks to add additional functionality for our second milestone.
+    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November, because we will require about 2 weeks to add additional functionality for our second milestone.
 
     - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November, because we will require about 2 weeks add additional functionality for our last milestone.
 
