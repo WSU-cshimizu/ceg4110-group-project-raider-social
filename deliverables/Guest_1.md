@@ -16,4 +16,4 @@ Text paragraph.
 Text paragraph.
 
 ## Signatures
-Hayden Troxell,
+Hayden Troxell, Tyler Wells
