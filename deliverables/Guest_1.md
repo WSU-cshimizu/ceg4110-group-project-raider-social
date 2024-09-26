@@ -17,5 +17,7 @@ Communication is more than just discussions between team members. It is importan
 Scrum Vs Kanban in the agile space:
  Scrum is a 2 week "sprint" cycle and a very tough service industry, kanban is a system that keeps work moving along and limits the amount of items open and not forgotten.
 
+DFL’s user story rule is that they should be made in a way that developers can finish them and push them to production right away. They can typically be stand-alone or part of a larger project.
+
 ## Signatures
-Hayden Troxell, Tyler Wells, Adam LaDue
+Hayden Troxell, Tyler Wells, Adam LaDue, Immanuel Sabwami
