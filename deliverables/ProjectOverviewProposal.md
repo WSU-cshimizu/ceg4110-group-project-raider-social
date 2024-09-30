@@ -29,7 +29,7 @@
 ## How do the components fit together (i.e., predicted architecture)?
 - Using the tools of Unity and its engine, the architecture of this project should be able to talk to itself without having to reach out to 3rd party software. Many Unity components work flawlessly together to make our jobs much more easier than relying on 3rd parties to be "compatible" with our app. 
 
-- UI DESIGN + BACKEND + DEPLOYMENT + TESING + DATA STORAGE    =  Project Success :) 
+- UI DESIGN + BACKEND + DEPLOYMENT + TESTING + DATA STORAGE    =  Project Success :) 
  
 
 
