@@ -29,11 +29,11 @@
 - Blender: We will use the 3D modeling application Blender, to create any custom assets because it is free/open source and offers extensive modeling tools, allowing us to achieve the results we need.
 
 ## How do the components fit together (i.e., predicted architecture)?
-- Using the tools of Unity and its engine, the architecture of this project should be able to talk to itself without having to reach out to 3rd party software. Many Unity components work flawlessly together to make our jobs much more easier than relying on 3rd parties to be "compatible" with our app. 
+- Using the tools of Unity and its engine, the architecture of this project should be able to talk to itself without having to reach out to 3rd party software. Many Unity components work flawlessly together to make our jobs much more easier than relying on 3rd parties to be "compatible" with our app.
 
-- UI DESIGN + BACKEND + DEPLOYMENT + TESTING + DATA STORAGE   =  Project Success :) 
- 
+- Blender will be the only other application used outside of Unity for this project. It will be used to create the custom 3D assets for the game, such as characters, platforms, and environmental objects. These assets will be exported from Blender and imported into Unity where they can be integrated into the game world.
 
+- UI DESIGN + BACKEND + 3D DESIGN + TESTING + DATA STORAGE  =  Project Success :) 
 
 ## What is the predicted life cycle/methodology that you will follow
 
