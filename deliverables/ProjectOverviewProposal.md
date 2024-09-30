@@ -10,16 +10,16 @@
   - Creating a Interface that is both appealing to look at and easy to use for the end user. We will be using Unity to develop a parkour map with various styles of platforms and map designs. 
 
 - Backend
-  - We will create a Server for our Frontend to communicate with. The Server will query the Database to fetch all the data that is required for our users to interact with the system.  
+  - We will manage game logic and player data ensuring smooth and efficient gameplay while preventing bad interactions with the enviroment (clipping through walls, etc)
 
 - Data Storage
-  - We will setup a Database using PostgreSQL to persistently store all of the data that our system utilizes, including the user data and other system data as well.
+  - We will use an addon in Unity to store amd manage the game data to persistently store correct local user data
 
-- Deployment
-  - The server will be hosted on the Internet so that any user with the access to the Internet can have access to our system. We will be using a hosting service such as GoDaddy to host our server.
+- 3D Design
+  - We will use Blender to create visually pleasing and performance-optimized 3D models and environments for the game, ensuring that it runs smoothly and that the objects feel natural rather than jarring or disjointed.
 
 - Testing
-  - The whole system is going to be thoroughly tested for its functionality, implementation and to reduce the amount of Bugs so that our Raiders can have a smooth and bug free experience whist using our application.
+  - The game will be thoroughly tested for its functionality and implementation to reduce the number of bugs, ensuring that our Raiders have a smooth and bug-free experience while playing our game.
   
 ## What language or technology stack or framework will be used (Why as well)?
 - Unity: We will be using the Unity engine as the "backbone" of our game. The majority of the game will be developed and tested within Unity as it provides all the necessary tools to do so.
@@ -29,7 +29,7 @@
 ## How do the components fit together (i.e., predicted architecture)?
 - Using the tools of Unity and its engine, the architecture of this project should be able to talk to itself without having to reach out to 3rd party software. Many Unity components work flawlessly together to make our jobs much more easier than relying on 3rd parties to be "compatible" with our app. 
 
-- UI DESIGN + BACKEND + DEPLOYMENT + TESTING + DATA STORAGE    =  Project Success :) 
+- UI DESIGN + BACKEND + DEPLOYMENT + TESTING + DATA STORAGE   =  Project Success :) 
  
 
 
