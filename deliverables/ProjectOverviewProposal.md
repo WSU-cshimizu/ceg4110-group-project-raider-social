@@ -7,13 +7,13 @@
 ## N things of complexity (components)
 
 - UI Design
-  - Creating a Interface that is both appealing to look at and easy to use for the end user. 
+  - Creating an interface that is both visually appealing and easy to use, balancing simplicity and functionality to ensure a smooth user experience. 
 
 - Backend
-  - We will manage game logic and player data ensuring smooth and efficient gameplay while preventing bad interactions with the enviroment (clipping through walls, etc)
+  - We will manage game logic and player data ensuring smooth and efficient gameplay while preventing bad interactions with the enviroment (clipping through walls, etc).
 
 - Data Storage
-  - We will use an addon in Unity to store amd manage the game data to persistently store correct local user data
+  - We will use an addon in Unity to store amd manage the game data to persistently store correct local user data.
 
 - 3D Design
   - We will use Blender to create visually pleasing and performance-optimized 3D models and environments for the game, ensuring that it runs smoothly and that the objects feel natural rather than jarring or disjointed.
