@@ -23,7 +23,9 @@
   
 ## What language or technology stack or framework will be used (Why as well)?
 - Unity: We will be using the Unity engine as the "backbone" of our game. The majority of the game will be developed and tested within Unity as it provides all the necessary tools to do so.
-- C#: We will use C# as out primary language as it is Unity's default language. C# scripts in Unity will allow us to develop every part of our game with more granular control if necessary. 
+  
+- C#: We will use C# as out primary language as it is Unity's default language. C# scripts in Unity will allow us to develop every part of our game with more granular control if necessary.
+  
 - Blender: We will use the 3D modeling application Blender, to create any custom assets because it is free/open source and offers extensive modeling tools, allowing us to achieve the results we need.
 
 ## How do the components fit together (i.e., predicted architecture)?
