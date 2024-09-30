@@ -7,7 +7,7 @@
 ## N things of complexity (components)
 
 - UI Design
-  - Creating a Interface that is both appealing to look at and easy to use for the end user. We will be using Unity to develop a parkour map with various styles of platforms and map designs. 
+  - Creating a Interface that is both appealing to look at and easy to use for the end user. 
 
 - Backend
   - We will manage game logic and player data ensuring smooth and efficient gameplay while preventing bad interactions with the enviroment (clipping through walls, etc)
