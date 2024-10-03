@@ -39,6 +39,9 @@ We anticipate on using Discord as our main line of communication and we plan on 
 
   * MVSs :
     - MVS - We will submit the MVS on the 20th of october. We have chosen this date because we will be making the MVS after we are done with both the Requirement Specification and Design Specification
+   
+  * Final Specification Document (FS):
+    - We will submit the Final Specification document on the 20th of November. We have chosen this date because we will have about a month after the MVS to actually work on the project and make any revisions to it.
   
   
   
