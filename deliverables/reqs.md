@@ -27,7 +27,7 @@
 ### User Story User
 #### As a player, I want to be able to use the basic game controls to traverse the world and try to beat my High-score while also not running into any bugs that will decrease my in-game immersion.
 * 4.1 Fluid Game Controls
-   - The game shall provide a set of responsive controls that allow players to navigate the game world seamlessly (ei: forward, backwards, left, right, jump)
+   - The game shall provide a set of responsive controls that allow players to navigate the game world seamlessly (ie: forward, backwards, left, right, jump)
 
  * 4.2 Stability and Bug-Free In-game Experience
    - The game shall ensure a stable and bug-free gameplay experience by minimizing faults that could disrupt player immersion and ruin the player experience.
