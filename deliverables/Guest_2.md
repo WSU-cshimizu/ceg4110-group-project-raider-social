@@ -6,7 +6,7 @@
 ## Pertinent Questions
 
 ## Lessons Learned
-
+- Riverside Research focuses on Customer-Focused and Results-Driven work as well as making a positive impact on the world with the speed of relevancy.
 ## Difference Between Lecture and Speaker
 
 ## Signatures
