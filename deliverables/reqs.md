@@ -13,7 +13,8 @@
 ### User Story User
 ## Hayden Troxell
 ### User Story Developer
-* 3.1 Implement Toggle Functionality of Score Display
+#### As a developer I want to develop the in-game toggle events(i.e score, start menu) to help ensure a straight and fun direction for a player to achieve goals and rewards so that they are obligated to be more 'engaged'.
+* 3.1 Accurate Collision Detection Algorithm
    - The game will provide a toggle feature that allows a player show and hide their score during gameplay. This feature will be provided as a hotkey option at the users disposal.
 
  * 3.2 Implement a Start Menu with Interactive Options
