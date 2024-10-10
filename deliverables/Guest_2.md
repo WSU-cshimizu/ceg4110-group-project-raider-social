@@ -7,5 +7,7 @@
 
 ## Lessons Learned
 
+## Difference Between Lecture and Speaker
+
 ## Signatures
 Immanuel Sabwami, Tyler Wells, Hayden Troxell
