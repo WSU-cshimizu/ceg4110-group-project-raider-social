@@ -12,7 +12,7 @@
 ### User Story User
 
 ## Hayden Troxell
-_User Story 2 text_
-1. Requirement 2.1
-  1. Requirement 2.1.1
-2. Requirement 2.2
+### User Story Developer
+
+### User Story User
+
