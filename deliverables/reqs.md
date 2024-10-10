@@ -31,3 +31,22 @@
 
  * 4.2 Stability and Bug-Free In-game Experience
    - The game shall ensure a stable and bug-free gameplay experience by minimizing faults that could disrupt player immersion and ruin the player experience.
+
+## Dipesh Paneru
+### User Story Developer
+#### As a Developer, I want to implement various movement mechanism such as moving forward and jumping, which will allow the player of the game to actually traverse the 3d space available in the game.
+
+* 5.1 
+* 5.2
+
+### User Story User
+#### As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
+
+* 6.1 The game shall have a number, representing a High Score, on top of the screen continuously while the game is being played.
+* 6.2 The game shall store the High Score of a player on the dashboard persistantly so that any player can check their previous high score.
+
+### User Story Tester
+#### As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
+
+* 7.1 
+* 7.2
