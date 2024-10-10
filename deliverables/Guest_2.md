@@ -5,7 +5,7 @@
 
 ## Pertinent Questions
 * What is a day in the life in your position?
- - Facilitating projects and get the customer to an initial vision and plan so the developers can begin solving the problem.
+  - Facilitating projects and get the customer to an initial vision and plan so the developers can begin solving the problem.
 * What does Riverside actually do?
   - Riverside aims to find the best solutions to problems that will maximize the effectiveness of taxpayer money.
 
