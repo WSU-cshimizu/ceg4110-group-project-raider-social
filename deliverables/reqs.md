@@ -2,7 +2,7 @@
 
 ## Tyler Wells
 ### User Story Developer
-- As a developer I want to develop the in-game toggle events(i.e score, start menu) to help ensure a straight and fun direction for a player to achieve goals and rewards so that they are obligated to be more 'engaged'.
+#### As a developer I want to develop the in-game toggle events(i.e score, start menu) to help ensure a straight and fun direction for a player to achieve goals and rewards so that they are obligated to be more 'engaged'.
 
  * 1.1 Implement Toggle Functionality of Score Display
    - The game will provide a toggle feature that allows a player show and hide their score during gameplay. This feature will be provided as a hotkey option at the users disposal.
