@@ -20,5 +20,6 @@
 - Riverside Research is a non-profit that creates software for the government when there company is approached to solve a problem in a more inexpenive manner
 ## Difference Between Lecture and Speaker
 - At Riverside Research they tend to push out applications faster than there competitors since they are non-profit
+- Riverside believes more in a minimum *usable* product than a minimum *viable* product as the word usable better describes what it is.
 ## Signatures
 Immanuel Sabwami, Tyler Wells, Hayden Troxell
