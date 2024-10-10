@@ -15,7 +15,7 @@
 ### User Story Developer
 #### As a developer, I want to develop the backend logic that will insure smooth collision detection, which will allow the player to enjoy the game and its enviorment without having any player model clipping issuses.
 * 3.1 Accurate Collision Detection
-   - The backend shall implement an accurate collision detection algorithm that accounts collisions between the player model and the environment.
+   - The backend shall implement accurate collision detection that accounts collisions between the player model and the environment with no clipping issues.
  * 3.2 Implement a Start Menu with Interactive Options
    - The game will have a start menu on load up that allows a player to choose between options to start or quit game. It will be very easy to navigate and look appealing to the user. 
 
