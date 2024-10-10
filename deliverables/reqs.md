@@ -25,7 +25,7 @@
    - The system shall provide continuous monitoring of in-game player movement and environmental interactions to ensure smooth and seemless gameplay.
 
 ### User Story User
-#### As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
+#### As a player, I want to be able to use the basic game controls to traverse the world and try to beat my High-score while also not running into any bugs that will decrease my in-game immersion.
 * 4.1 Implement Toggle Functionality of Score Display
    - The game will provide a toggle feature that allows a player show and hide their score during gameplay. This feature will be provided as a hotkey option at the users disposal.
 
