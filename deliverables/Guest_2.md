@@ -8,5 +8,4 @@
 ## Lessons Learned
 
 ## Signatures
-Immanuel Sabwami
-Tyler Wells
+Immanuel Sabwami, Tyler Wells, Hayden Troxell
