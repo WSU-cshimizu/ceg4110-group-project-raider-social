@@ -22,4 +22,4 @@
 - At Riverside Research they tend to push out applications faster than there competitors since they are non-profit
 - Riverside believes more in a minimum *usable* product than a minimum *viable* product as the word usable better describes what it is.
 ## Signatures
-Immanuel Sabwami, Tyler Wells, Hayden Troxell
+Immanuel Sabwami, Tyler Wells, Hayden Troxell, Adam LaDue
