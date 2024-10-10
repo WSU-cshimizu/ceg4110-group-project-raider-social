@@ -11,6 +11,11 @@
    - The game will have a start menu on load up that allows a player to choose between options to start or quit game. It will be very easy to navigate and look appealing to the user. 
 
 ### User Story User
+#### As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
+* 2.1 Real-Time Leaderboard Display
+  - The game will feature a real-time leaderboard that displays the top scores of players, letting users compete against one another.
+* 2.2 Matchmaking System
+  - In the future if we got far into our project, there will be a matchmaking option for users to compete with one another.
 ## Hayden Troxell
 ### User Story Developer
 #### As a developer, I want to develop the backend logic that will insure smooth collision detection, which will allow the player to enjoy the game and its enviorment without having any player model clipping issuses.
