@@ -9,8 +9,9 @@
 
 1.2 Implement a Start Menu with Interactive Options
  -  The game will have a start menu on load up that allows a player to choose between options to start or quit game. It will be very easy to navigate and look appealing to the user. 
+### User Story User
 
-## User Story 2
+## Hayden Troxell
 _User Story 2 text_
 1. Requirement 2.1
   1. Requirement 2.1.1
