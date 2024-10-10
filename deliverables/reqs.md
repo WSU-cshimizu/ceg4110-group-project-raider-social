@@ -29,5 +29,5 @@
 * 4.1 Fluid Game Controls
    - The game shall provide a set of responsive controls that allow players to navigate the game world seamlessly (ei: forward, backwards, left, right, jump)
 
- * 4.2 Implement a Start Menu with Interactive Options
-   - The game will have a start menu on load up that allows a player to choose between options to start or quit game. It will be very easy to navigate and look appealing to the user. 
+ * 4.2 Stability and Bug-Free In-game Experience
+   - The game shall ensure a stable and bug-free gameplay experience by minimizing faults that could disrupt player immersion and ruin the game experience.
