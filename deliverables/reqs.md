@@ -6,7 +6,8 @@
 
 1.1 Implement Toggle Functionality of Score Display.
    -  The game will provide a toggle feature that allows a player show and hide their score during gameplay. This feature will be provided as a hotkey option at the users disposal.
-  1.2. Implement a Start Menu with Interactive Options
+
+1.2. Implement a Start Menu with Interactive Options
    - The game will have a start menu on load up that allows a player to choose between options to start or quit game. It will be very easy to navigate and look appealing to the user. 
 
 ## User Story 2
