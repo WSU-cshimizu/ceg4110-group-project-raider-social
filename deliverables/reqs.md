@@ -30,4 +30,4 @@
    - The game shall provide a set of responsive controls that allow players to navigate the game world seamlessly (ei: forward, backwards, left, right, jump)
 
  * 4.2 Stability and Bug-Free In-game Experience
-   - The game shall ensure a stable and bug-free gameplay experience by minimizing faults that could disrupt player immersion and ruin the game experience.
+   - The game shall ensure a stable and bug-free gameplay experience by minimizing faults that could disrupt player immersion and ruin the player experience.
