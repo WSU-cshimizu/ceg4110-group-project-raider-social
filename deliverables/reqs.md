@@ -42,8 +42,10 @@
 ### User Story User
 #### As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
 
-* 6.1 The game shall display a number, representing a High Score, on top of the screen continuously while the game is being played.
-* 6.2 The game shall display a list of High Scores of previous players in descending order to keep track of all the previous High Scores.
+* 6.1 Continuous high score display
+  - The game shall display a number, representing a High Score, on top of the screen continuously while the game is being played.
+* 6.2 High Score Table
+  - The game shall display a list of High Scores of previous players in descending order to keep track of all the previous High Scores.
 
 ### User Story Tester
 #### As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
