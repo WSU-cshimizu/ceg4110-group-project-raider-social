@@ -8,6 +8,7 @@
 ## Lessons Learned
 - Riverside Research focuses on Customer-Focused and Results-Driven work as well as making a positive impact on the world with the speed of relevancy.
 - Riverside Research hits their problems head on in a timely and direct approach with every solution being valuable and desirable for great user experience.
+- Riverside Research is a non-profit that creates software for the government when there company is approached to solve a problem in a more inexpenive manner
 ## Difference Between Lecture and Speaker
 
 ## Signatures
