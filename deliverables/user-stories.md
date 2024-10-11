@@ -13,7 +13,7 @@ As a player, I want to be able to use momentum mechanics to improve the “reali
 As a Developer, I want to implement feedback when the player performs certain action to make the game more immersive.
 
 ### User
-As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
+As a Player, I want to be able to play the game with multiple courses inorder to keep me engaged.
 
 ### Test
 As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
