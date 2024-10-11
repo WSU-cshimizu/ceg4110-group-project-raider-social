@@ -12,20 +12,26 @@
 
 ### User Story User
 #### As a player, I want to be able to play the game with smooth representation of a competitive aspect so that I can beat other peoples high scores and enjoy the moment.
+
 * 2.1 Real-Time Leaderboard Display
   - The game shall feature a real-time leaderboard that displays the top scores of players, letting users compete against one another.
+    
 * 2.2 Matchmaking System
   - In the future if we got far into our project, there shall be a matchmaking option for users to compete with one another.
+    
 ## Hayden Troxell
 ### User Story Developer
 #### As a developer, I want to develop the backend logic that will insure smooth collision detection, which will allow the player to enjoy the game and its enviorment without having any player model clipping issuses.
+
 * 3.1 Accurate Collision Detection
    - The backend shall implement accurate collision detection that accounts collisions between the player model and the environment with no clipping issues.
+     
  * 3.2 Continuous Collision Detection
    - The system shall provide continuous monitoring of in-game player movement and environmental interactions to ensure smooth and seemless gameplay.
 
 ### User Story User
 #### As a player, I want to be able to use the basic game controls to traverse the world and try to beat my High-score while also not running into any bugs that will decrease my in-game immersion.
+
 * 4.1 Fluid Game Controls
    - The game shall provide a set of responsive controls that allow players to navigate the game world seamlessly (ie: forward, backwards, left, right, jump)
 
@@ -63,6 +69,7 @@
 ## Adam LaDue
 ### User Story Developer
 #### As a developer, I want to implement a database system that stores player scores and personal records, so that players can track their progress and compare their best performances across different runs with themselves and other players.
+
 * 8.1 The system shall create a new player profile for a new player when the game is first launched
    - 8.1.1 The system shall give a unique ID to the player profile when created
    - 8.1.2 The system shall allow the player to give themselves a username for their profile
@@ -77,6 +84,7 @@
 
 ### User Story User
 #### As a player, I want the game to accurately track and save my scores and personal records, so that when I finally beat a record I’ve been striving for, it’s securely stored and my progress is never lost. This will keep me motivated to continue playing and improving without the frustration of losing my achievements.
+
 * 9.1 The system shall correctly keep track of the players score throughout the level
    - 9.1.1 The system shall calculate a proper score per each feat completed (such as, 10 points for a normal jump and 100 points for a difficult jump) and add it to the total score
    - 9.1.2 The system shall update the player's profile personal record upon death, both locally and in the database, if current score is larger than the current personal record
