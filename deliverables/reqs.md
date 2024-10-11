@@ -59,3 +59,30 @@
     
 * 7.2 No kill mode specifications
   - No kill mode in the game shall allow the player to play the game without being killed.
+    
+## Adam LaDue
+### User Story Developer
+#### As a developer, I want to implement a database system that stores player scores and personal records, so that players can track their progress and compare their best performances across different runs with themselves and other players.
+* 8.1 The system shall create a new player profile for a new player when the game is first launched
+   - 8.1.1 The system shall give a unique ID to the player profile when created
+   - 8.1.2 The system shall allow the player to give themselves a username for their profile
+   - 8.1.3 The system shall by default give the player a username
+   - 8.1.4 The system shall prevent the user from having a username longer than 15 characters long, containing ONLY letters or numbers
+   - 8.1.5 The system shall have the player profile contain the personal record of the player
+
+* 8.2 The system shall hold a database containing all player profiles
+   - 8.2.1 The system shall have the ability to print all player profiles along with their personal record
+   - 8.2.2 The system shall have the ability to print an individual player profile along with their personal record
+   - 8.2.3 The system shall have the ability to determine the top 10 scores in the database and print the player profiles associated with them
+
+### User Story User
+#### As a player, I want the game to accurately track and save my scores and personal records, so that when I finally beat a record I’ve been striving for, it’s securely stored and my progress is never lost. This will keep me motivated to continue playing and improving without the frustration of losing my achievements.
+* 9.1 The system shall correctly keep track of the players score throughout the level
+   - 9.1.1 The system shall calculate a proper score per each feat completed (such as, 10 points for a normal jump and 100 points for a difficult jump) and add it to the total score
+   - 9.1.2 The system shall update the player's profile personal record upon death, both locally and in the database, if current score is larger than the current personal record
+
+* 9.2 The system shall not allow player profiles to be changed except for the username
+   - 9.2.1 The system shall prevent a player from changing their personal records manually
+   - 9.2.2 The system shall prevent a player from changing player profile information of other players
+   - 9.2.3 The system shall have a back up of the database in case of loss of data
+
