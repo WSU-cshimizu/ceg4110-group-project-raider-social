@@ -10,7 +10,7 @@ As a player, I want to be able to use momentum mechanics to improve the “reali
 ## Dipesh Paneru (Graduate Student)
 
 ### Developer
-As a Developer, I want to implement various movement mechanism such as moving forward and jumping, which will allow the player of the game to actually traverse the 3d space available in the game.
+As a Developer, I want to implement feedback when the player performs certain action to make the game more immersive.
 
 ### User
 As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
