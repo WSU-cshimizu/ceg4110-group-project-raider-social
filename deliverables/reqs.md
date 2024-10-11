@@ -43,13 +43,13 @@
   - The game shall provide haptic feedback when to compatible devices during special circumstances such as jumping, landing e.t.c.
 
 ### User Story User
-#### As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
+#### As a Player, I want to be able to play the game with multiple courses inorder to keep me engaged
 
-* 6.1 Continuous high score display
-  - The game shall display a number, representing a High Score, on top of the screen continuously while the game is being played.
+* 6.1 Menu item
+  - The game shall display all the available courses as selectable menu items
     
-* 6.2 High Score Table
-  - The game shall display a list of High Scores of previous players in descending order to keep track of all the previous High Scores.
+* 6.2 Multiple Courses
+  - The game shall have multiple courses that might differ in theme or difficulty so that the player is engaged in the game for an extended period of time.
 
 ### User Story Tester
 #### As a Tester, I want to be able to play the game without being "Killed" (i.e game restarting) in any case, so that I can focus on the actual testing of the game instead of being focused on not being killed so that the game does not restart.
