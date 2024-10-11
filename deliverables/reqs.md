@@ -94,3 +94,21 @@
    - 9.2.2 The system shall prevent a player from changing player profile information of other players
    - 9.2.3 The system shall have a back up of the database in case of loss of data
 
+## Immanuel Sabwami
+### User Story Developer
+#### As a developer, I want to implement various custom-made 3d assets for the game to give it more character and to separate from any other similar projects built using our workflow, which would prevent our game from looking like every other generic parkour game showcased in many of the tutorials available across the internet.
+
+* 10.1 Custom Made 3d Assets
+  - The game shall include custom-made/externally created parkour structures.
+
+* 10.2 Visual Consistency
+  - Lighting and shading along with custom 3d assets shall be visually consistent with the style of each course they are a part of. 
+
+### User Story User
+#### As a player, I want to be able to use momentum mechanics to improve the “realism” of character movement, which could make some obstacles easier to traverse the faster I move through them, adding an extra layer of skill required to quickly traverse the course.
+
+* 11.1 Physics-based movement
+  - The game shall include physics-based movement where the player's speed or momentum affects their ability to avoid obstacles.
+
+* 11.2 Skill progression
+  - The difficulty level of each course shall gradually increase the further the player progresses through it.  
