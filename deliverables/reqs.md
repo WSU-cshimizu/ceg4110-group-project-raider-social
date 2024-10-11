@@ -34,13 +34,13 @@
 
 ## Dipesh Paneru
 ### User Story Developer
-#### As a Developer, I want to implement various movement mechanism such as moving forward and jumping, which will allow the player of the game to actually traverse the 3d space available in the game.
+#### As a Developer, I want to implement feedback when the player performs certain action to make the game more immersive
 
-* 5.1 Sideways Movement
-  - Player shall have the ability to move left, right and forward.
+* 5.1 Audio Feedback
+  - The game shall provide audio feedback during some special circumstances such as jumping, landing , being killed e.t.c.
     
-* 5.2 Jumping Movement
-  - Player shall have the ability to jump on top and above obsticles.
+* 5.2 Haptic Feedback
+  - The game shall provide haptic feedback when to compatible devices during special circumstances such as jumping, landing e.t.c.
 
 ### User Story User
 #### As a Player, I want to be able to see a High-score board to keep track of my previous achievements in the game, so that I can challenge myself to get better the following iteration. 
