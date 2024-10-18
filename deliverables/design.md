@@ -13,7 +13,7 @@
 
 -This is the flow chart for how collision detection will be handled. The system will wait for a player input then once an input is detected it will then check if the player hit box is colliding with a wall or the platform hit boxes and will react accordingly.
 ### 4.1 Game Controls
-![Screenshot 2024-10-18 121603](https://github.com/user-attachments/assets/d33899c2-3658-470a-bf4e-cbc9b28283cb)
+![Screenshot 2024-10-18 122449](https://github.com/user-attachments/assets/09d88668-67bb-40f1-abd9-60e6b57005c5)
 
 -This is a flow chart for how the player movement will be handled. The system will wait for a input from the player and an input is detected it will respond accordingly depending on where the player is positioned in the game space. This will allow for fluid in-game controls.
 ### 5.1 Audio Feedback
