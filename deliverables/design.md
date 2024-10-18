@@ -16,14 +16,15 @@
 
 -Description
 ### 5.1 Audio Feedback
+![Haptic Feedback](../assets/Audio-Feedback.jpeg)
 
 
--Description
+-This is the flow chart for Audio Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Audio Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
 ### 5.2 Haptic Feedback
 ![Haptic Feedback](../assets/Haptic-Feedback.jpeg)
 
 
--This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingy.
+-This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
 
 ### 8.1, 8.2, 9.1, 9.2 Player Data
 
