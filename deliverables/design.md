@@ -20,7 +20,7 @@
 
 -Description
 ### 5.2 Haptic Feedback
-![Haptic Feedback](../assets/Course-Assets-Mockup.jpeg)
+![Haptic Feedback](../assets/hapticFeedback.pdf)
 
 
 -Description
