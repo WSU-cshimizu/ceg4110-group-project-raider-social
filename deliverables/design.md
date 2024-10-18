@@ -28,14 +28,15 @@
 
 -Description
 ### 10.1 & 10.2 Frontend Mock-ups
+[Course Assets](../assets/Course-Assets-Mockup.jpeg)
+[Main Lobby](../assets/Main-Lobby-Mockup.jpeg)
 
-
--Description
+- These are bare-bones mockups of what we expect the basic platforms and obstacles to look like. Most obstacles will likely be a combination of various assets. There is also a mockup of what we expect the main lobby to look like. The player will be able to select from 4 courses in a central "hub"-like room and can proceed into any of the courses to begin.
 ### 11.1 Physics Based Movement
+[Physics Based Movement](../assets/Physics-Based-Movement-Diagram.jpeg)
 
-
--Description
+- The primary physics element the we would like to implemenet (apart from typical elements such as gravity) will be momentum. This will primarily be the mechanic that when a player jumps while running, they will go 2x farther than they would otherwise. This would be based on a particular combination of key presses. If the player is moving forward and jumps while moving, momentup mechanics will apply. If the player is stationary and jumps, they will just jump straight up. If the player jumps then moves forward, they will move forward the default jump distance.
 ### 11.2 Skill Progression
+[Progression](../assets/Skill%20Progression-Diagram.jpeg)
 
-
--Description
+- As the player progresses through a course, it will require more skill to get through obstacles. Earlier stages of the courses will have easier obstacles and they will get more challeneging as the player progresses. Above are some of the easy, medium, and difficult obstacles that will be implemented.
