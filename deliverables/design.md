@@ -1,7 +1,9 @@
 # Design Specification
 
-### 1.2 Menu Options
+### 1.1 & 1.2 Menu Options
+![Main Menu](../assets/Main-Menu.jpeg)
 
+- The above picture shows the Main Menu of our game. The game can have multiple options such as Main Lobby, Audio settings, Haptic settings e.t.c. We can add other options to the Main menu if we deem it necessary. 
 
 -Description
 ### 2.2 Matchmaking System
