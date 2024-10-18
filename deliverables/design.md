@@ -20,7 +20,7 @@
 
 -Description
 ### 5.2 Haptic Feedback
-![Haptic Feedback](../assets/hapticFeedback.pdf)
+![Haptic Feedback](../assets/Haptic-Feedback.jpeg)
 
 
 -Description
