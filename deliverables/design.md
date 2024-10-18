@@ -27,6 +27,8 @@
 
 -This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
 ### 6.1 & 6.2 Multiple Courses
+![Main Lobby](../assets/Main-Lobby-Mockup.jpeg)
+- Above is a 2D and 3D diagram of the Main Lobby. From the Main Lobby we can decide to go into one of many courses that might differ amongst themselves interms of theme, difficulty, course structure. 
 
 ### 7.1 & 7.2 No Kill mode
 ![No Kill Mode](../assets/No-Kill-mode.jpeg)
