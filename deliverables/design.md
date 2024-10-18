@@ -17,7 +17,7 @@
 
 -This is a flow chart for how the player movement will be handled. The system will wait for a input from the player and an input is detected it will respond accordingly depending on where the player is positioned in the game space. This will allow for fluid in-game controls.
 ### 5.1 Audio Feedback
-![Haptic Feedback](../assets/Audio-Feedback.jpeg)
+![Audio Feedback](../assets/Audio-Feedback.jpeg)
 
 
 -This is the flow chart for Audio Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Audio Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
@@ -28,7 +28,10 @@
 -This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
 
 ### 7.1 & 7.2 No Kill mode
+![No Kill Mode](../assets/No-kill-mode.jpeg)
 
+
+-This is the flow chart for No kill mode. Whenever the user plays the game in No kill mode, the user is respawned immediately after they fall off the platfrom. This feature is usefull in when the tester wants to test a patricular obstacle that is hard to complete. The tester can enable no kill mode and then test the obastacle as many times as they want without having to play the whole game again to reach the difficult section again.
 
 ### 8.1, 8.2, 9.1, 9.2 Player Data
 
