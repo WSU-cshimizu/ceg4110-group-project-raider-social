@@ -6,9 +6,9 @@
 - The above picture shows the Main Menu of our game. The game can have multiple options such as Main Lobby, Audio settings, Haptic settings e.t.c. We can add other options to the Main menu if we deem it necessary. 
 
 ### 2.1 and 2.2 Matchmaking System
+![Main Menu](../assets/Leaderboard.jpeg)
 
-
--Description
+-The above picture is that of a Leaderboard. The highest scores of the payers are stored in a persistant databse, and then showed in the leaderboard in order foster a competitive spirit amongst the players.
 ### 3.1 & 3.2 Collision Detection
 ![Screenshot 2024-10-18 115840](https://github.com/user-attachments/assets/7d2233e2-b6bf-4422-9c1e-03c5593c49aa)
 
