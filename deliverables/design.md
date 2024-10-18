@@ -38,9 +38,9 @@
 -This is the flow chart for No kill mode. Whenever the user plays the game in No kill mode, the user is respawned immediately after they fall off the platfrom. This feature is usefull in when the tester wants to test a patricular obstacle that is hard to complete. The tester can enable no kill mode and then test the obastacle as many times as they want without having to play the whole game again to reach the difficult section again.
 
 ### 8.1, 8.2, 9.1, 9.2 Player Data
+![Player Profile](../assets/Player-Profile-Flowchart.png)
 
-
--Description
+- This is the flow chart for the player profile if the user is a new player or not. This flow chart also shows how the player profile is used during gameplay and how it plays a role in the settings from the main menu. 
 ### 10.1 & 10.2 Frontend Mock-ups
 ![Course Assets](../assets/Course-Assets-Mockup.jpeg)
 ![Main Lobby](../assets/Main-Lobby-Mockup.jpeg)
