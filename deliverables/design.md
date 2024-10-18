@@ -11,7 +11,7 @@
 ### 3.1 & 3.2 Collision Detection
 ![Screenshot 2024-10-18 115840](https://github.com/user-attachments/assets/7d2233e2-b6bf-4422-9c1e-03c5593c49aa)
 
--Description
+-This is the flow chart for how collision detection will be handled. The system will wait for a player input then once an input is detected it will then check if the player hit box is colliding with a wall or the platform hit boxes and will react accordingly.
 ### 4.1 Game Controls
 
 -Description
