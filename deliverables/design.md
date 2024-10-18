@@ -26,6 +26,7 @@
 
 
 -This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingly.
+### 6.1 & 6.2 Multiple Courses
 
 ### 7.1 & 7.2 No Kill mode
 ![No Kill Mode](../assets/No-Kill-mode.jpeg)
