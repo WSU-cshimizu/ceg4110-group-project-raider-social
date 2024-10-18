@@ -23,7 +23,8 @@
 ![Haptic Feedback](../assets/Haptic-Feedback.jpeg)
 
 
--Description
+-This is the flow chart for Haptic Feedback. Whenever a user initiated action occures in the game, various conditions are checked to decide whether a Haptic Feedback needs to be generated or not, after which haptic feedback is generated accrodingy.
+
 ### 8.1, 8.2, 9.1, 9.2 Player Data
 
 
