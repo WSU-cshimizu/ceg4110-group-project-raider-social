@@ -1,7 +1,7 @@
 # Guest Lecture Response
 * **Guest Lecturer:** 
 * **Company:** 
-* **Date:** 
+* **Date:** 10/24/2024
 
 ## Pertinent Questions
 
