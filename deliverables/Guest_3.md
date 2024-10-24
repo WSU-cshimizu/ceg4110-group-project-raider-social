@@ -16,6 +16,7 @@
 * WinSupply is currently managing upwards of 200 different dev projects. A lot of their projects have year to year-and-half road maps.
 
 ## Difference Between Lecture and Speaker
+* Chris specifically mentioned pitfalls of agile including lack of communication and Lack of planning before development.
 
 ## Signatures
 Immanuel Sabwami, Tyler Wells, Hayden Troxell, Adam LaDue
