@@ -1,5 +1,5 @@
 # Guest Lecture Response
-* **Guest Lecturer:** 
+* **Guest Lecturer:** Chris Schrameck
 * **Company:** WinSupply
 * **Date:** 10/24/2024
 
