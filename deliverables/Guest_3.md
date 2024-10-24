@@ -1,6 +1,6 @@
 # Guest Lecture Response
 * **Guest Lecturer:** 
-* **Company:** 
+* **Company:** WinSupply
 * **Date:** 10/24/2024
 
 ## Pertinent Questions
