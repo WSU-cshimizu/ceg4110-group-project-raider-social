@@ -13,7 +13,9 @@
 
 * No company is the same and they will all operate differently. Even specific teams within a company will likely implement paradigms differently.
  
-* Job hopping is not a bad thing early on in one’s career. 
+* Job hopping is not a bad thing early on in one’s career.
+
+* Project shouldn't be a pet. Don't get attached to anything. Only work with cattle
 
 ## Difference Between Lecture and Speaker
 * 
