@@ -4,8 +4,8 @@
 * **Date:** 11/7/2024
 
 ## Pertinent Questions
-* Advantages of small companies vs large companies and vice versa. 
- - Smaller companies have very tight knit teams, so everyone is very approachable. Large companies are well established so job security is better.
+* Advantages of small companies vs large companies and vice versa.
+   - Smaller companies have very tight knit teams, so everyone is very approachable. Large companies are well established so job security is better.
 
 
 ## Lessons Learned
