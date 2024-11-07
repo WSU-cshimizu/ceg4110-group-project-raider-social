@@ -6,6 +6,8 @@
 ## Pertinent Questions
 * Advantages of small companies vs large companies and vice versa.
    - Smaller companies have very tight knit teams, so everyone is very approachable. Large companies are well established so job security is better.
+ 
+* 
 
 
 ## Lessons Learned
@@ -16,6 +18,8 @@
 * Job hopping is not a bad thing early on in one’s career.
 
 * Project shouldn't be a pet. Don't get attached to anything. Only work with cattle
+
+* If your company wants to pay to train you, let them! It benefits you and the company.
 
 ## Difference Between Lecture and Speaker
 * 
