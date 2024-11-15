@@ -33,7 +33,7 @@ We anticipate on using Discord as our main line of communication and we plan on 
   * Milestones : 
     - First Milestone - We will submit the system for its First evaluation on the 1st of Nov, because we will need about 14 days to build a Minimal Viable Product using the Requirement Specification and Design Specification made before.
 
-    - Second Milestone - We will submit the for system for its Second evaluation on the 13th of November, because we will require about 2 weeks to add additional functionality for our second milestone.
+    - Second Milestone - We will submit the for system for its Second evaluation on the 22th of November, because we will require about 2 weeks to add additional functionality for our second milestone.
 
     - Third Milestone - We will submit the for system for its Third evaluation on the 29th of November, because we will require about 2 weeks add additional functionality for our last milestone.
 
