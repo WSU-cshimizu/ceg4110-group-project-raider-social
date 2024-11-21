@@ -4,7 +4,7 @@
 * **Date:** 11/21/2024
 
 ## Pertinent Questions
-
+N/A
 
 ## Lessons Learned
 * Only buy gear with documentation.
