@@ -21,4 +21,4 @@
 * There really wasn't much different from what we talked about in lecture, other than explaining the reality of the industry.
 
 ## Signatures
-Immanuel Sabwami
+Immanuel Sabwami, Hayden Troxell
