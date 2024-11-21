@@ -15,6 +15,8 @@
 
 * Actively listen by asking questions and repeating back what you think you hear.
 
+* Self inquiry is a good way to battle imposter syndrome.
+
 ## Difference Between Lecture and Speaker
 
 
