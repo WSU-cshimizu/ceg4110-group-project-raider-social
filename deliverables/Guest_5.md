@@ -7,7 +7,13 @@
 
 
 ## Lessons Learned
+* Only buy gear with documentation.
 
+* Optimize resumes for Applicant Tracking Systems.
+
+* Keep a generic cover letter.
+
+* Actively listen by asking questions and repeating back what you think you hear.
 
 ## Difference Between Lecture and Speaker
 
