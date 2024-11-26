@@ -23,4 +23,4 @@
 * Chris specifically mentioned pitfalls of agile including lack of communication and Lack of planning before development.
 
 ## Signatures
-Immanuel Sabwami, Tyler Wells, Hayden Troxell, Adam LaDue
+Immanuel Sabwami, Tyler Wells, Hayden Troxell, Adam LaDue, Dipesh Paneru
