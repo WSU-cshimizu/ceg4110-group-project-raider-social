@@ -28,5 +28,7 @@
   - Justification for Functional Testing
       - Functional testing refers to the actual testing of the sotware throught its use to see if all of the requirements are met. Since we are making a parkour game it seemed obvious to us that actually playing the game and manually testing all of the components of the game should be a part of the testing framework.
 
+Since Unit testing covers the logicalpart of our software where as Functional Testing covers the assets and integration of assets and logical portion of our game we have choosen Unit and Functional Testing as our frameworks of choice. Thus we think that Unit Testing and Functional testing combined is adequate to throughly test our software.
+
 ## Signature
 Dipesh Paneru
