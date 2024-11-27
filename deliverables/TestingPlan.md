@@ -14,6 +14,9 @@
     ### Unit Testing
     - The logical portion of the game is written in code and it needs to be tested throughly. I will be using Unit Tests inorder to test the individual units or blocks of code.
 
+    ### Integration Testing
+    - There are multiple components to the parkour game. We need to test how the game behaves when each of these components interact with each other. We will be using Integration testing (i.e Play mode testing in unity) in order to test integration.
+
     ### Functional Testing
     - As our software system is a game we will be using Functional Testing in order to test the actual functionality of the test. The best way to test a game is to play it and functional testing entails the same.
       
@@ -24,11 +27,13 @@
   
 ## Testing Framework Justification
   - Justification for Unit Testing
-      - All of the logical parts of the games apart from the "Assets" are written in code in the language C#. All of this code has to be tested throughly in order to check any bugs. This is the reason why we have chosen Unit testing as one of the frameworks.
+      - All of the logical parts of the games apart from the "Assets" are written in code in the language C#. All of this code has to be tested throughly in order to check any bugs. This is the reason why we have chosen Unit testing as one of the frameworks to test single blocks of independent code.
+  - Justification for Integration Testing
+      - We also need to test how various components of the game come together as a single unit and how the game behaves when multiple components come together as one. This is the reason why we have chosen Integration testing as one of the frameworks.
   - Justification for Functional Testing
       - Functional testing refers to the actual testing of the sotware throught its use to see if all of the requirements are met. Since we are making a parkour game it seemed obvious to us that actually playing the game and manually testing all of the components of the game should be a part of the testing framework.
 
-Since Unit testing covers the logicalpart of our software where as Functional Testing covers the assets and integration of assets and logical portion of our game we have choosen Unit and Functional Testing as our frameworks of choice. Thus we think that Unit Testing and Functional testing combined is adequate to throughly test our software.
+Since Unit testing and Integration testing covers the logical part and its integration of our software where as Functional Testing covers the assets of our game we have choosen Unit, Integration and Functional Testing as our frameworks of choice. Thus we think that Unit Testing, Integration Testing and Functional testing combined are adequate to throughly test our software.
 
 ## Signature
 Dipesh Paneru
