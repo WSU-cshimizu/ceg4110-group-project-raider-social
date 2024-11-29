@@ -1,4 +1,4 @@
-# Sabwami Group Retrospective
+# Group Retrospective
 
 ## What went well in the group...
 * From the beginning I think we were able to determine appropriate roles for each group member based on past experience.
@@ -16,3 +16,6 @@
 
 ## Further Comments
 * Nothing that hasn't already been mentioned.
+
+## Signatures
+Immanuel Sabwami
