@@ -21,4 +21,4 @@
 ## Difference Between Lecture and Speaker
 
 ## Signatures
-Immanuel Sabwami, Adam LaDue, Dipesh Paneru
+Immanuel Sabwami, Adam LaDue, Dipesh Paneru, Tyler Wells
