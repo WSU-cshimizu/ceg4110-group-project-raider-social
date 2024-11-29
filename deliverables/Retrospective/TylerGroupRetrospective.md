@@ -8,7 +8,7 @@
 * We could not meet as much as we would like with everyones schedules being a bit separate, but we were able to talk regularly through group chats.
 
 ## What went well in the class...
-* It was interesting seeing the many different guest lectures and what they brought to the field. 
+* It was interesting seeing the many different guest lectures and what they brought to the class. 
 * It was nice being able to see my classmates twice a week when everyones schedules did not line up outside of that. It gave us time to reflect what we have done in our projects and talk to proffesor.
 
 ## What could have been better in the class...
