@@ -7,7 +7,7 @@
 
 ## What could have been better in the group...
 * It was tough finding meeting times that worked for everyone due to class/work schedules everyone had.
-* Segregation of work amongst the members was not optimal. The work could have divided more efficiently.
+* Segregation of work amongst the members was not optimal. The work could have been divided more efficiently.
 * We should have had more strict deadlines for ourselves.
 
 ## What went well in the class...
