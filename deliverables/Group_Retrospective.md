@@ -18,4 +18,4 @@
 * Nothing that hasn't already been mentioned.
 
 ## Signatures
-Immanuel Sabwami
+Immanuel Sabwami, Dipesh Paneru
