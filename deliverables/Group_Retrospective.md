@@ -23,4 +23,4 @@
 * Nothing that hasn't already been mentioned.
 
 ## Signatures
-Immanuel Sabwami, Dipesh Paneru, Tyler Wells, Hayden Troxell
+Immanuel Sabwami, Dipesh Paneru, Tyler Wells, Hayden Troxell, Adam LaDue
